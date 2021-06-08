@@ -1,0 +1,21 @@
+#hand {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+}
+#handCard {
+      width: 7%;
+}
+#tableCard {
+}
+#table {
+      position: absolute;
+      margin: auto;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      width: 500px;
+      height: 200px;
+      background-color: green;
+}
